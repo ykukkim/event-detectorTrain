@@ -1,0 +1,10 @@
+*~
+*.pyc
+*.csv
+*.c3d
+test
+models
+data
+setup.cfg
+dist/
+eventdetector.egg-info/
